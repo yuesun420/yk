@@ -1,3 +1,7 @@
+garlic
+egg
+cheese
+basil
 tomatoes
 noddles
 
